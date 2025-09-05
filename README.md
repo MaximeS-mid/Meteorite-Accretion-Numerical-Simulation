@@ -52,6 +52,6 @@ A meteorite enters the atmosphere at a speed of **19 km/s** and an angle of **70
 - **Graphs**: Mass and velocity as a function of position for different \(C_D\) and \(H\) values.
 - **Tables**: Summary of remaining mass at impact for various parameters.
 
-![Mass and velocity vs. position for \(C_D = 0.3\) and \(H = 20\) km](figures/partie%203%20fig%201%20cd%200.3.png)
+![Mass and velocity vs. position for varying \C_D\ and \(H = 20\) km](images/abrasion_image)
 
 ---
