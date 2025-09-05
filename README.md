@@ -22,7 +22,7 @@ The project is divided into three parts:
 A meteorite enters the atmosphere at a speed of **19 km/s** and an angle of **70°**. The goal is to:
 - Model its **trajectory**, **velocity**, and **mass loss** due to atmospheric abrasion.
 - Compare the simplified model (constant mass) with a more realistic model (variable mass).
-- Analyze the influence of parameters such as the **drag coefficient** (\(C_D\)) and **atmospheric thickness** (\(H\)).
+- Analyze the influence of parameters such as the **drag coefficient** (C_D) and **atmospheric thickness** (H).
 
 ---
 
@@ -44,7 +44,7 @@ A meteorite enters the atmosphere at a speed of **19 km/s** and an angle of **70
 ### Key Findings
 - The **simplified model** (constant mass) predicts an unrealistic mass loss, exceeding the meteorite's initial mass.
 - The **improved model** (variable mass) provides more realistic results, with a final mass of **63 tons** (0.5% of the initial mass) for \(C_D = 0.3\) and \(H = 20\) km.
-- The **drag coefficient** (\(C_D\)) and **atmospheric thickness** (\(H\)) significantly affect the meteorite's mass and velocity:
+- The **drag coefficient** (C_D) and **atmospheric thickness** (H) significantly affect the meteorite's mass and velocity:
   - Higher \(C_D\) leads to faster deceleration and mass loss.
   - Thicker atmospheres (\(H > 30\) km) invalidate the assumption of negligible gravity compared to drag force.
 
@@ -52,6 +52,6 @@ A meteorite enters the atmosphere at a speed of **19 km/s** and an angle of **70
 - **Graphs**: Mass and velocity as a function of position for different \(C_D\) and \(H\) values.
 - **Tables**: Summary of remaining mass at impact for various parameters.
 
-![Mass and velocity vs. position for varying \C_D\ and \(H = 20\) km](images/abrasion_image)
+![Mass and velocity vs. position for varying \C_D\ and \(H = 20\) km](images/abrasion_image.png)
 
 ---
