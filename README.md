@@ -15,6 +15,8 @@ The project is divided into three parts:
 2. **Improved model** (variable mass).
 3. **Numerical simulation** and analysis of parameter influence.
 
+This repository contains two reports, the original in French and an English translation produced by Mistral AI.
+
 ---
 
 ## 🔍 Problem Statement
